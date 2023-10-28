@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  My-First      | My first project as a data analyst student            | https://github.com/NginaMuinde/My-First.git       |
+| 2 |  Snakes        | This covers my first programming language python basics             | https://github.com/NginaMuinde/Snakes.git      |
+| 3 |  Team          | The best study group in the world             | https://github.com/NginaMuinde/Team.git       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
